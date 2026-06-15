@@ -1,6 +1,6 @@
 /*
  * ============================================================================
- * Real-Time Chat Application - Authentication Module
+ * OS-Chat-Application - Authentication Module
  * ============================================================================
  * Department of Software Engineering, Iqra University
  * Operating System Lab - Dynamic Data Structures

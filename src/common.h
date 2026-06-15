@@ -1,6 +1,6 @@
 /*
  * ============================================================================
- * Real-Time Chat Application - Common Definitions
+ * OS-Chat-Application - Common Definitions
  * ============================================================================
  * Department of Software Engineering, Iqra University
  * Operating System Lab - Dynamic Data Structures

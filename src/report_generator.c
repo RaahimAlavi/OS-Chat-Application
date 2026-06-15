@@ -1,6 +1,6 @@
 /*
  * ============================================================================
- * Real-Time Chat Application - Report Generator
+ * OS-Chat-Application - Report Generator
  * ============================================================================
  * Department of Software Engineering, Iqra University
  * Operating System Lab - Dynamic Data Structures
@@ -297,7 +297,7 @@ static void generate_report(FILE *out, const report_t *r)
     int W = 70;
 
     /* ---- Title ---- */
-    print_header(out, "REAL-TIME CHAT APPLICATION - SERVER REPORT", W);
+    print_header(out, "OS-CHAT-APPLICATION - SERVER REPORT", W);
     fprintf(out, "\n");
     fprintf(out, "  Institution:   Iqra University\n");
     fprintf(out, "  Department:    Software Engineering\n");

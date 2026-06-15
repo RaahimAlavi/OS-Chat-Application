@@ -1,4 +1,4 @@
-# Final Presentation — Real-Time Chat Application
+# Final Presentation — OS-Chat-Application
 
 > **Operating System Lab | Iqra University | Department of Software Engineering**
 > *Dynamic Data Structures: Building a Real-Time Chat Application*

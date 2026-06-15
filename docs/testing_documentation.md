@@ -1,6 +1,6 @@
 # Testing Documentation
 
-## Real-Time Chat Application
+## OS-Chat-Application
 
 | | |
 |---|---|

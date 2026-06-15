@@ -1,4 +1,6 @@
-# Real-Time Chat Application
+# OS-Chat-Application
+
+**Repository:** [https://github.com/RaahimAlavi/OS-Chat-Application](https://github.com/RaahimAlavi/OS-Chat-Application)
 
 > **Operating System Lab — Iqra University**
 > Dynamic Data Structures: Building a Real-Time Chat Application
@@ -107,7 +109,7 @@ make run-client
 ## Project Structure
 
 ```
-chat-application/
+OS-Chat-Application/
 ├── src/
 │   ├── common.h            # Shared definitions, protocol, utilities
 │   ├── auth.h              # Authentication module (DJB2 hash)

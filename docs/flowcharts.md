@@ -1,4 +1,4 @@
-# Real-Time Chat Application - Flowcharts & Block Diagrams
+# OS-Chat-Application - Flowcharts & Block Diagrams
 
 > Operating System Lab | Iqra University | Department of Software Engineering
 

@@ -1,6 +1,6 @@
 # System Design Document
 
-## Real-Time Chat Application
+## OS-Chat-Application
 
 | | |
 |---|---|

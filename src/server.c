@@ -1,6 +1,6 @@
 /*
  * ============================================================================
- * Real-Time Chat Application - Server
+ * OS-Chat-Application - Server
  * ============================================================================
  * Department of Software Engineering, Iqra University
  * Operating System Lab - Dynamic Data Structures

@@ -1,6 +1,6 @@
 # User Guide
 
-## Real-Time Chat Application
+## OS-Chat-Application
 
 | | |
 |---|---|

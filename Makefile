@@ -1,5 +1,5 @@
 # ============================================================================
-# Real-Time Chat Application - Makefile
+# OS-Chat-Application - Makefile
 # ============================================================================
 # Department of Software Engineering, Iqra University
 # Operating System Lab - Dynamic Data Structures
