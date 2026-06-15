@@ -563,7 +563,7 @@ socket(AF_INET, SOCK_STREAM, 0)
 ## 10. File Organisation
 
 ```
-chat-application/
+OS-Chat-Application/
 ├── Makefile               # Build system with server, client, valgrind targets
 ├── docs/
 │   ├── system_design.md          # This document

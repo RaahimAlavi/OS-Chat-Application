@@ -80,18 +80,18 @@ Copy the project directory to your home folder or any working directory:
 
 ```bash
 # If cloning from a repository
-git clone <repository-url> chat-application
-cd chat-application
+git clone https://github.com/RaahimAlavi/OS-Chat-Application
+cd OS-Chat-Application
 
 # Or if using a provided archive
-tar -xzf chat-application.tar.gz
-cd chat-application
+tar -xzf OS-Chat-Application.tar.gz
+cd OS-Chat-Application
 ```
 
 ### 2.2 Project Directory Structure
 
 ```
-chat-application/
+OS-Chat-Application/
 ├── Makefile                # Build system
 ├── docs/                   # Documentation
 │   ├── system_design.md
